@@ -274,7 +274,7 @@ body {
   flex-wrap: wrap;
 }
 .work__environment-image img {
-  box-shadow: 53px 41px #1a8198;
+  box-shadow: 110px 100px 1px -50px #1a8198, 110px -10px 1px -50px #1a8198;
 }
 
 .work__environment-details {
@@ -348,7 +348,7 @@ body {
   z-index: 2;
 }
 .cta__image img {
-  box-shadow: 20px 28px #26a4bf;
+  box-shadow: 120px 120px 1px -100px #26a4bf, 120px 10px 1px -100px #26a4bf;
   position: relative;
   z-index: 2;
 }
